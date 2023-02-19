@@ -1,7 +1,6 @@
 #!/bin/bash
 let DIFF=(`date +%s`-`date +%s -d "20210619"`)/-86400
 let D2=$DIFF+$(<words.txt wc -l)
-#rm words.txt
 for (( i=$D2 ; i <= 30 ; i++));
 do
   dt=$(date -d "$i days" +%F)
