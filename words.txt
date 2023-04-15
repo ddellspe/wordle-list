@@ -689,3 +689,8 @@
 "aglow",
 "cocoa",
 "ethic",
+"broom",
+"snack",
+"acrid",
+"scarf",
+"canoe",
