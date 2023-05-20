@@ -723,3 +723,8 @@
 "guard",
 "wrong",
 "plunk",
+"crime",
+"maybe",
+"strap",
+"ranch",
+"shyly",
