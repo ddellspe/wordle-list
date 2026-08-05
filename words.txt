@@ -1901,3 +1901,4 @@
 "remix",
 "ruler",
 "joist",
+"wager",
