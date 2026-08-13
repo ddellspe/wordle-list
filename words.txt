@@ -1909,3 +1909,4 @@
 "burst",
 "dryly",
 "aster",
+"nifty",
