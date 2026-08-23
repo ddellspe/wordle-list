@@ -1919,3 +1919,4 @@
 "waken",
 "shone",
 "pager",
+"stoke",
