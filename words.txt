@@ -1926,3 +1926,4 @@
 "elegy",
 "sloop",
 "trunk",
+"scuba",
