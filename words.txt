@@ -1928,3 +1928,4 @@
 "trunk",
 "scuba",
 "river",
+"ritzy",
