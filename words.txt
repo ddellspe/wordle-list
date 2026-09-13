@@ -1940,3 +1940,4 @@
 "bumpy",
 "uncap",
 "yodel",
+"wider",
