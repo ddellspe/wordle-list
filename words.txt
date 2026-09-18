@@ -1945,3 +1945,4 @@
 "dunce",
 "shady",
 "gaffe",
+"adorn",
