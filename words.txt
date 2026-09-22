@@ -1949,3 +1949,4 @@
 "stink",
 "wrest",
 "penny",
+"reset",
