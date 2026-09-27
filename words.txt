@@ -1954,3 +1954,4 @@
 "holey",
 "dress",
 "geeky",
+"bingo",
