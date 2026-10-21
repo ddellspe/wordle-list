@@ -1978,3 +1978,4 @@
 "roast",
 "blurt",
 "clout",
+"arose",
