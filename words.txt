@@ -1985,3 +1985,4 @@
 "sneer",
 "spicy",
 "tense",
+"sheaf",
