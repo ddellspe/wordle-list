@@ -1994,3 +1994,4 @@
 "radar",
 "fight",
 "cress",
+"rally",
